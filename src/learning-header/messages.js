@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   dashboard: {
     id: 'header.menu.dashboard.label',
-    defaultMessage: 'Dashboard',
+    defaultMessage: '主頁頁',
     description: 'The text for the user menu Dashboard navigation link.',
   },
   help: {
@@ -33,7 +33,7 @@ const messages = defineMessages({
   },
   signOut: {
     id: 'header.menu.signOut.label',
-    defaultMessage: 'Sign Out',
+    defaultMessage: '登出',
     description: 'The label for the user menu Sign Out action.',
   },
 });
